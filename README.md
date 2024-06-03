@@ -1,6 +1,8 @@
 ## @brunobr023
 Desenvolvedor Front-end | Estudante em Tecnico em Desenvolvimento em Sistemas
 <hr>
+
+<hr>
 <div>
   <h1>Tecnologias</h1>
   <p>Desenvolvimento Front-end</p>
