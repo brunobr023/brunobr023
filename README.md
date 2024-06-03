@@ -1,7 +1,11 @@
 ## @brunobr023
 Desenvolvedor Front-end | Estudante em Tecnico em Desenvolvimento em Sistemas
-<hr>
- <div><img src="./tITULO.gif" style="width: 100%; height: auto;"/></div>
+ <a href="https://github.com/brunobr023">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brunobr023&theme=dracula" />
+</a>
+<a href="https://github.com/brunobr023">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunobr023&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 <hr>
 <div>
   <h1>Tecnologias</h1>
