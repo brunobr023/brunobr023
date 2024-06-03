@@ -19,10 +19,15 @@
  <img width=32 height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"alt="bruno_php"/>
  <img width=32 height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="bruno_angularjs"/>
  <img width=32 height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="bruno_typescript"/>
-
 </div>
 <hr>
 <div>
   <h3>Contato</h3>
- 
+ <div>
+  <a href="mailto:brunootavio326@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+  <a href="mailto:bruno_otaviofdjr@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
+  <a href="https://www.instagram.com/br_bruno023/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+   <a href="https://www.youtube.com/channel/UC55n1yVSrt_LLZt3FkQQtqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+  
+ </div>
 </div>
