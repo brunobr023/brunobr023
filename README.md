@@ -1,5 +1,7 @@
 ## @brunobr023
-Desenvolvedor Front-end | Estudante em Tecnico em Desenvolvimento em Sistemas
+<h1>Desenvolvedor Front-end</h1>
+
+<p>Hello everyone!👋🏻 My schedules bring emotion and building them makes them my passion. And here is the home of these projects.</p>
  <a href="https://github.com/brunobr023">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brunobr023&theme=dracula" />
 </a>
@@ -8,11 +10,6 @@ Desenvolvedor Front-end | Estudante em Tecnico em Desenvolvimento em Sistemas
 </a>
 <hr>
 <div>
-  <h1>Tecnologias</h1>
-  <p>Desenvolvimento Front-end</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: auto; width: 32px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: auto; width: 32px;"/>
-  <p>Desenvolvimento back-end</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="height: auto; width: 32px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="height: auto; width: 32px;"/>
+  <h3>Contato</h3>
+ 
 </div>
