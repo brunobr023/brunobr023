@@ -1,7 +1,7 @@
 ## @brunobr023
-<h1>Desenvolvedor Front-end</h1>
-
-<p>Hello everyone!👋🏻 My schedules bring emotion and building them makes them my passion. And here is the home of these projects.</p>
+<h1>Delevoper Front-end | Desenvolvedor Front-end</h1>
+<p><img width=14 height=14 src="https://images.emojiterra.com/twitter/v14.0/1024px/1f1e7-1f1f7.png">  Olá a todos! Meus programações trazem a emoção e construir eles os torna a minha paixão. E aqui é a casa desses projetos.</p>
+<p><img width=14 height=14 src="https://images.emojiterra.com/twitter/v14.0/1024px/1f1fa-1f1f8.png">  Hello everyone!👋🏻 My schedules bring emotion and building them makes them my passion. And here is the home of these projects.</p>
  <a href="https://github.com/brunobr023">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brunobr023&theme=dracula" />
 </a>
