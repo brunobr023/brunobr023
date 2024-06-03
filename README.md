@@ -1,6 +1,6 @@
 ## @brunobr023
 <h1>Delevoper Front-end | Desenvolvedor Front-end</h1>
-<p><img width=14 height=14 src="https://images.emojiterra.com/twitter/v14.0/1024px/1f1e7-1f1f7.png">  Olá a todos! Meus programações trazem a emoção e construir eles os torna a minha paixão. E aqui é a casa desses projetos.</p>
+<p><img width=14 height=14 src="https://images.emojiterra.com/twitter/v14.0/1024px/1f1e7-1f1f7.png">  Olá a todos! 👋🏻 Meus programações trazem a emoção e construir eles os torna a minha paixão. E aqui é a casa desses projetos.</p>
 <p><img width=14 height=14 src="https://images.emojiterra.com/twitter/v14.0/1024px/1f1fa-1f1f8.png">  Hello everyone!👋🏻 My schedules bring emotion and building them makes them my passion. And here is the home of these projects.</p>
 <div >
  <a href="https://github.com/brunobr023">
@@ -27,7 +27,7 @@
   <a href="mailto:brunootavio326@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
   <a href="mailto:bruno_otaviofdjr@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
   <a href="https://www.instagram.com/br_bruno023/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-   <a href="https://www.youtube.com/channel/UC55n1yVSrt_LLZt3FkQQtqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+  <a href="https://www.youtube.com/channel/UC55n1yVSrt_LLZt3FkQQtqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
   
  </div>
 </div>
